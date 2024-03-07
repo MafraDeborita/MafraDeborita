@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MafraDeborita
 - 👀 I’m interested in learn about technologies and programming
-- 🌱 I’m currently learning HTML, PYTHON
+- 🌱 I’m currently learning HTML,CSS, PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my e-mail is mafradebora26@gmail.com
 - 😄 Pronouns: she/her
