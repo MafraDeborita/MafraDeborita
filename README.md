@@ -1,5 +1,5 @@
 <h1 align= "center">Olá! 👋 eu sou Debora Mafra</h1>
-<h3 align= "center">Sou aluna da Trilha de Ciência de Dados - Trilhas Inova Secti /Gov do Maranhão, Cursando DBA na empresa SENAC-MA</h3>
+<h3 align= "center">Aluna da Trilha de Ciência de Dados - Trilhas Inova Secti /Gov do Maranhão / FAPEMA | -Cursando Ciência de Dados - Gran Faculdade</h3>
 
 ##
 
