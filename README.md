@@ -1,5 +1,5 @@
-<h3>Olá! 👋 eu sou Debora Mafra</h3>
-<h4>Aluna da Trilha de Ciência de Dados - Trilhas Inova Secti /Gov do Maranhão / FAPEMA | -Cursando Ciência de Dados - Gran Faculdade</h4>
+<h3>Olá! 😄 eu sou Debora Mafra</h3>
+<h4>Graduanda em Ciência de Dados - Gran Faculdade</h4>
 
 ##
 
